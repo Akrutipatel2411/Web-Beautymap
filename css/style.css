@@ -137,6 +137,7 @@ h6 {
 {
     width: 25%;
     float: left;
+
 }
 .text
 {
@@ -147,5 +148,77 @@ h6 {
     
     padding: 10px 10px;
 }
+.schedule
+{
+    width: 100%;
 
+    overflow: auto;
+}
+.price
+{
+    width: 33.3%;
+    float: left;
+    padding: 30px 0px;
+    
+}
+.view
+{
+    padding: 10px;
+    color: palevioletred;
+    background-color: lightcyan;
+    width: 25%;
+    text-align: center;
+    margin: 40px 150px;
+}
+.pri
+{
+    width: 33.3%;
+    float: left;
+    padding: 30px 0px;
+    background-color: #575757; 
+}
+.promo
+{
+    width: 58%;
+    margin: auto;
+}
+.hand
+{
+    color: palevioletred;
+    padding: 30px 0px;
+    margin: auto;
+}
+.salon
+{
+    width: 50%;
+    margin: auto;
+    
+}
+.txt
+{
+    color: palevioletred;
+    padding: 30px 0px;
+}
+.read
+{
+    padding: 10px;
+    color: palevioletred;
+    background-color: pink;
+    width: 25%;
+    text-align: center;
+    margin: 31px 150px;
+}
+.client
+{
+    width: 100%;
+    background-color: #dddfe3;
+    overflow: auto;
+}
+.what
+{
+    background-color: #f1ebea;
+    width: 80%;
+
+    margin: 30px 140px;
+}
 
